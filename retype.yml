@@ -1,0 +1,26 @@
+input: .
+output: .retype
+
+url: docs.optumce.com # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Optum CE Documentation
+  label: Docs
+
+links:
+  - text: OPTUM GX
+    link: https://retype.com/guides/getting-started/
+  - text: OPTUM GX Python
+    link: https://retype.com/guides/getting-started/
+  - text: OPTUM CS
+    link: https://retype.com/guides/getting-started/
+  - text: OPTUM G2/G3
+    link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }} - OptumCE | All rights reserved."
+
